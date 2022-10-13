@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 from seleniumwire import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
