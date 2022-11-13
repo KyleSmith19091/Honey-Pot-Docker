@@ -29,5 +29,5 @@ So when the form is submitted it will have the email and password fields set in 
 
 2. Access on localhost:8080
 
-#### Bot
+#### Bot - Used to simulate an attack
 1. `python bot.py`
